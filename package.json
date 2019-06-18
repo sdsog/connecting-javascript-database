@@ -1,0 +1,22 @@
+{
+  "name": "connecting-javascript-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsog/connecting-javascript-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdsog/connecting-javascript-database/issues"
+  },
+  "homepage": "https://github.com/sdsog/connecting-javascript-database#readme",
+  "dependencies": {
+    "pg": "^7.11.0"
+  }
+}
